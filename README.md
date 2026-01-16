@@ -15,19 +15,6 @@ It is not a standalone project or application. Instead, it acts as a personal wo
 
 ---
 
-## 🛠️ Technology Stack
-
-- **HTML5**
-
----
-
-## 📖 How to Use
-
-1. Clone or download the repository  
-2. Open any `.html` file in a web browser  
-3. Inspect the source code to understand the structure  
-
----
 
 ## 🎯 Objective
 
