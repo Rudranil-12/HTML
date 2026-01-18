@@ -35,6 +35,7 @@ The main objectives of this repository are:
 
 ## ⭐ Support
 If you find this repository helpful:
+
 - Give it a ⭐
 - Share it with your friends
 
