@@ -33,4 +33,11 @@ The main objectives of this repository are:
 
 ---
 
+## ⭐ Support
+If you find this repository helpful:
+- Give it a ⭐
+- Share it with your friends
+
+---
+
 Feel free to explore, fork, and contribute. Let's grow together! 😊
